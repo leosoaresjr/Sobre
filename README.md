@@ -1,59 +1,50 @@
-<h1 align="center">👋 Olá! Eu sou [Seu Nome]</h1>
+# 👋 Olá visitante! Muito prazer, eu sou [Leo]
+
+📌 Aqui você pode conhecer mais sobre mim e ver meu portfólio de repositórios voltados para:
+- 🛡️ Cibersegurança (Blue Team, OSINT, Pentest)
+- 🎨 Design Gráfico (CorelDraw, ArtCam, Blender)
+- 💻 Desenvolvimento (Python, JavaScript, Java)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <b>🔒 Estudante de Cibersegurança | 🎨 Designer Gráfico | 💻 Dev em formação</b><br>
-  Apaixonado por tecnologia, segurança e design.
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
 
-## 🛡️ Cibersegurança
+## 🚀 Tecnologias e Skills
 
-| Skill     | Nível |
-|--------- |:----:|
-| ![Linux](https://img.shields.io/badge/Linux-🟩🟩🟩🟩⬜️ 80%25-success) | 🟩🟩🟩🟩⬜️ 80% |
-| ![Pentest](https://img.shields.io/badge/Pentest-🟩🟩🟩⬜️⬜️ 60%25-blue) | 🟩🟩🟩⬜️⬜️ 60% |
-| ![OSINT](https://img.shields.io/badge/OSINT-🟩🟩🟩🟩⬜️ 80%25-green) | 🟩🟩🟩🟩⬜️ 80% |
-| ![Windows](https://img.shields.io/badge/Windows-🟩🟩🟩🟩⬜️%2080%25-lightgrey) | 🟩🟩🟩🟩⬜️ 80% |
----
+Sou apaixonado por aprender e aplicar na prática.  
+Abaixo estão as principais skills que estudo e trabalho no dia a dia:
 
-## 💻 Programação
-
-| Linguagem       | Nível |
-|---------------- |:----:|
-| ![Python](https://img.shields.io/badge/Python-🟩🟩🟩⬜️⬜️%2060%25-yellow) | 🟩🟩🟩⬜️⬜️ 60% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-🟩🟩⬜️⬜️⬜️%2050%25-yellowgreen) | 🟩🟩⬜️⬜️⬜️ 50% |
-| ![Java](https://img.shields.io/badge/Java-🟩⬜️⬜️⬜️⬜️%2030%25-orange) | 🟩⬜️⬜️⬜️⬜️ 30% |
+<p>
+  <img src="https://img.shields.io/badge/Python-🟩🟩🟩⬜️⬜️%2060%25-yellow" />
+  <img src="https://img.shields.io/badge/JavaScript-🟩🟩⬜️⬜️⬜️%2050%25-yellowgreen" />
+  <img src="https://img.shields.io/badge/Java-🟩⬜️⬜️⬜️⬜️%2030%25-orange" />
+  <img src="https://img.shields.io/badge/Blue%20Team-🟩🟩🟩🟩⬜️%2080%25-blue" />
+  <img src="https://img.shields.io/badge/Windows-🟩🟩🟩🟩⬜️%2080%25-lightgrey" />
+  <img src="https://img.shields.io/badge/CorelDraw-🟩🟩🟩🟩🟩%2099%25-brightgreen" />
+  <img src="https://img.shields.io/badge/ArtCam-🟩⬜️⬜️⬜️⬜️%2040%25-blue" />
+  <img src="https://img.shields.io/badge/Blender-🟩⬜️⬜️⬜️⬜️%2030%25-orange" />
+</p>
 
 ---
 
-## 🎨 Design Gráfico
+## 📦 Linguagens mais usadas
 
-| Ferramenta       | Nível |
-|----------------- |:----:|
-| ![CorelDraw](https://img.shields.io/badge/CorelDraw-🟩🟩🟩🟩🟩%2099%25-brightgreen) | 🟩🟩🟩🟩🟩 99% |
-| ![ArtCam](https://img.shields.io/badge/ArtCam-🟩⬜️⬜️⬜️⬜️%2040%25-blue) | 🟩⬜️⬜️⬜️⬜️ 40% |
-| ![Blender](https://img.shields.io/badge/Blender-🟩⬜️⬜️⬜️⬜️%2030%25-orange) | 🟩⬜️⬜️⬜️⬜️ 30% |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical" />
+</p>
 
+---
 
 ## 📫 Contato
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/leosoaresjr/]" target="_blank">
+  <a href="https://www.linkedin.com/in/leosoaresjr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-</p>
-
----
-
-## ✏️ Sobre mim
-- 🔒 Blue Team: Defendo sistemas e busco entender as ameaças para proteger melhor.
-- 🎨 Designer gráfico especializado em CorelDraw, criação de etiquetas, tags e arte 3D.
-- 💻 Estudando programação para criar ferramentas próprias e ampliar meu leque profissional.
-- 🚀 Sempre buscando novos conhecimentos para evoluir na área de cibersegurança e tecnologia.
-- 🚀 Buscando minha primeira vaga júnior na área de Cibersegurança.
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
